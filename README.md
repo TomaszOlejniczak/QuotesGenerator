@@ -11,11 +11,11 @@ The application randomizes quotes with the possibility of inserting the download
 Project is created with:
 * HTML5
 * Sass
-* Java Script
+* JavaScript
 * Ajax
 
 ## Tools
-The following tools were used
+The following tools were used:
 * NPM
 * Git
 
